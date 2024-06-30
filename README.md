@@ -22,8 +22,8 @@ To set up the project on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/cyber-ids-ml.git
-   cd cyber-ids-ml
+   git clone https://github.com/arunachaleswaranms/Cyber-Intrusion-Detection-System.git
+   cd Cyber-Intrusion-Detection-System
    ```
 
 2. **Create a virtual environment and activate it:**
