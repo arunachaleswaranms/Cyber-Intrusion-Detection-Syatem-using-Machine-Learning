@@ -3,7 +3,8 @@
 # Cyber Intrusion Detection System Using Machine Learning
 
 ## Overview
-This project involves developing a Cyber Intrusion Detection System (IDS) using various machine learning algorithms. The IDS aims to detect network intrusions with high accuracy and low false positive rates. The project utilizes the KDD Cup 1999 dataset for training and testing the machine learning models.
+This project involves developing a Cyber Intrusion Detection System (IDS) using various machine learning algorithms. The IDS aims to detect network intrusions with high accuracy and low false positive rates.
+The project utilizes the KDD Cup 1999 dataset for training and testing the machine learning models.
 
 ## Project Structure
 The repository is organized into the following files and directories:
