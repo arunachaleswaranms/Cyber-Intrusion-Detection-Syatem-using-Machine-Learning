@@ -18,3 +18,18 @@ This project is a Cyber Intrusion Detection System (IDS) developed using machine
    cd Cyber-Intrusion-Detection-System
 
    updating......
+2. **Install the dependencies:**
+
+   pip install -r requirements.txt
+   
+4. **Run the Jupyter notebooks or Python scripts:**
+   
+For Jupyter notebooks:
+
+   jupyter notebook
+
+For Python scripts:
+
+python src/data_preprocessing.py
+python src/model_training.py
+python src/model_evaluation.py
